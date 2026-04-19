@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+.env/
+.venv/
+
+# IDE papkalari
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Gitning o‘zi (odatda ignore qilinmaydi, lekin eslatma)
+# .git/
